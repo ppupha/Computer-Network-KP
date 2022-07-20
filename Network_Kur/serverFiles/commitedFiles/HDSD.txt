@@ -1,0 +1,35 @@
+
+
+Server
+
+Client
+
+
+
+Command:
+
+
+Client
+
+	create_user/3 
+	upload/
+	delete/
+	currentFiles/
+	uploadedFiles/
+	workFiles/
+	download/
+	status/
+	commit/
+	revert/
+	showDiff/
+	quit/
+
+
+Server
+
+
+
+
+
+
+
